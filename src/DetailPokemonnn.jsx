@@ -12,7 +12,7 @@ function DetailPokemonnn(DetailPokemon2){
     const [cpt, setCpt] = useState(0)
 
     useEffect(() => {
-        fetch("https://pokemon-database-ten.vercel.app/random")
+        fetch(process.env.REACT_APP_URL + "/random")
             .then((response) => response.json())
             .then((data) => {
                 let enemyPokemonStat = [data[' Name'], data.HP, data.Attack, data.Defense]
