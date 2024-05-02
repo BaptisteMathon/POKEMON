@@ -21,7 +21,7 @@ function Pokemon() {
     }, [detailPokemon])
 
     function addPokemon() {
-        fetch("https://pokemon-database-ten.vercel.app/random")
+        fetch(process.env.REACT_APP_URL + "/random")
         .then((response) => response.json())
         .then((data) => {
             if (pokemon.length < 6) {
