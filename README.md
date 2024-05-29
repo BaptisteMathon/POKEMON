@@ -8,7 +8,7 @@ Lorsque vous ouvrez le jeu (https://pokemon-eta-nine.vercel.app/) vous arriverez
 
 ![image](https://github.com/BaptisteMathon/POKEMON/assets/103061783/1e1ab5d9-02ec-4927-8402-26ef6a44c6bc)
 
-Vous auvez le choix de choisir les types de vos 6 pokémons en cliquant simplement sur les boutons des types. Une fois vos types de pokémons choisis, vous allez être emmené sur l'arène :
+Vous avez le choix de choisir les types de vos 6 pokémons en cliquant simplement sur les boutons des types. Une fois vos types de pokémons choisis, vous allez être emmené sur l'arène :
 
 ![image](https://github.com/BaptisteMathon/POKEMON/assets/103061783/24387557-891f-4520-a807-d1e0f70440d9)
 
