@@ -43,6 +43,7 @@ function DetailPokemonnn(DetailPokemon2){
                 if (degat[1] <= 0){
                     degat[1] = 0
                     document.getElementById("body").style.display = 'none'
+                    document.getElementById("ekip").style.display = 'none'
                     document.getElementById("restart").style.display = "flex"
                     setCpt(0)
                 }
@@ -66,6 +67,7 @@ function DetailPokemonnn(DetailPokemon2){
                         }
                         if(cpt === 5){
                             document.getElementById("body").style.display = 'none'
+                            document.getElementById("ekip").style.display = 'none'
                             document.getElementById("lose").style.display = "flex"
                         }
                     }
