@@ -20,7 +20,7 @@ Pour gagner, il faut que les PV de votre adversaire soient à zéro, mais si les
 
 ![image](https://github.com/BaptisteMathon/POKEMON/assets/103061783/7bae4ae0-2ba5-42b5-8ae2-19329245fe05)
 
-Lorsque vous avez un de vos pokémons avec ses PV à zéro, vous avez la possibilité de choisir un autre pokémon en cliquant sur le nom du pokémon souhaité dans l'encadré**Autres Pokémons** :
+Lorsque vous avez un de vos pokémons avec ses PV à zéro, vous avez la possibilité de choisir un autre pokémon en cliquant sur le nom du pokémon souhaité dans l'encadré **Autres Pokémons** :
 
 ![image](https://github.com/BaptisteMathon/POKEMON/assets/103061783/ad7b8770-75ac-41f0-9ed4-5ef80ac105ad)
 
@@ -37,4 +37,6 @@ Vous pourrez retrouver les différentes teams que vous avez sauvegardées dans l
 Vous retrouverez donc vos différentes teams sauvegardées et vous pourrez aussi supprimer les teams que vous ne voulez plus voir en cliquant sur l'icône de corbeille :
 
 ![image](https://github.com/BaptisteMathon/POKEMON/assets/103061783/480b6341-9036-4273-b043-991beeb85bd0)
+
+A vous de jouer, et que le meilleur gagne!
 
