@@ -40,3 +40,7 @@ Vous retrouverez donc vos différentes teams sauvegardées et vous pourrez aussi
 
 A vous de jouer, et que le meilleur gagne!
 
+### Répo de la database : 
+
+**Le répo de la database est disponible à l'URL suivante : https://github.com/BaptisteMathon/POKEMON_DATABASE**
+
